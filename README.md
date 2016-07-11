@@ -1,2 +1,2 @@
-# react-native-cognitive-services
-React Native module for Microsoft Cognitive Services
+# react-native-windows-speech
+React Native module for speech recognition.
